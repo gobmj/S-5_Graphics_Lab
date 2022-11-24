@@ -1,5 +1,4 @@
-##
-S-5_Graphics_Lab
+## S-5_Graphics_Lab
 
 # Cycle_1
 
