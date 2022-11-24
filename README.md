@@ -1,6 +1,6 @@
 # S-5_Graphics_Lab
 
-Cycle_1
+# Cycle_1
 
 1.  (a) Familiarisation of computer graphics hardware and software - Write introduction,CRT, raster scan, random scan, monitor parameter, flat panel                displays, input devices,output devices
     (b) Familiarisation of Display Standards(CGA,MDA,SVGA,.....,etc).
@@ -14,7 +14,7 @@ Cycle_1
 
 5.  Ellipse drawing: Polar, Non-Polar, Mid-Point
 
-Cycle_2
+# Cycle_2
 
 1.  Experiment V: 2-D Transformations 
     Write a menu driven program to Implement 2-D Transformations on an Equilateral Triangle:
@@ -36,7 +36,7 @@ Cycle_2
     (a) Clip a line using Cohen Sutherland Line Clipping Algorithm.
     (b) Clip a polygon using Sutherland Hodgeman Polygon Clipping Algorithm
 
-Cycle_3
+# Cycle_3
 
 1.  Write a program to display swinging pendulum.
 
